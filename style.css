@@ -1,0 +1,9 @@
+@media (max-widh: 600px)
+{
+body {
+    background-image: url(996785.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+}
